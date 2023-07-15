@@ -1,7 +1,6 @@
 #testing secret finder
-passwd="new"
-GITHUB_TOKEN="test1"
+oops@
 
-pwd=yeeeee
+IGNORE
 
-GITHUB_TOKEN=jncerihnckrnv
+EHAT
